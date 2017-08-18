@@ -9,8 +9,7 @@ The JSON object will contain the book title and the percentage
 of the book that has been read by you.
 
 ## Usage
-1. Go to your queue page on Safari Books
-2. Copy paste this javascript into your browser
-3. Append "javascript:" to the front of what you just copy pasted
+1. Go to your queue page on Safari Books and leave it open
+2. Copy paste this javascript onto the url bar
+3. Prepend **javascript:** to the javascript you just pasted
 4. Press enter and let the bookmarklet do its magic
-
