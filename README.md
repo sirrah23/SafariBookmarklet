@@ -13,3 +13,4 @@ of the book that has been read by you.
 2. Copy paste this javascript onto the url bar
 3. Prepend **javascript:** to the javascript you just pasted
 4. Press enter and let the bookmarklet do its magic
+5. After it is done processing the JSON dump will be stored on the window in the globalmybookdata variable
